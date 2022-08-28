@@ -10,6 +10,10 @@ candidates and job description
 ![image](https://user-images.githubusercontent.com/54329870/187092922-81087f78-d320-45c4-bd57-fd64cd515d7b.png)
 
 
+## Architectural Overview
+![image](https://user-images.githubusercontent.com/54329870/187093350-a75f5db9-8631-4911-90cc-e5f40bd0c1c3.png)
+
+Open in the [whimsical](https://whimsical.com/knowledge-graph-A3Q7SpW1mvQQeCMRfRZdR3) for better viewing experience
 ## Dataset
 
 ### Resume Dataset  
