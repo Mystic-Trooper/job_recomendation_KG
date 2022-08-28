@@ -46,3 +46,23 @@ links in a social network. It is computed using the following formula:where N(u)
 closer.
 
 - The library contains a function to calculate closeness between two nodes.
+
+## Future Scope
+- Extending KG to more dimensions like location, salery
+- Using unstructured dataset
+- Native language support
+
+## FAQ's
+### 1. What is the problem statement?
+
+we are going to leverage a knowledge graph-based recommendation system that helps candidates to find jobs according to their skillsets.
+
+### 2. What all are the general tasks?
+We analysed various aspects which help to recommend job and job descriptions based on location, age group, etc. Future - Build homogenous graph's as in resume-skills, resume-location, resume-dev_type(backend/frontend),
+after that take the most popular nodes and build a heterogeneous knowledge graph
+
+### 3. Why knowledge Graph?
+A knowledge graph is self-descriptive, as it provides a single place to find the data and understand what it is all about. Knowledge graphs are being used for a wide range of applications from space, journalism, biomedicine to entertainment, network security, and pharmaceuticals.
+
+### 4. Why Neo4j?
+Neo4j delivers the lightning-fast read and write performance you need, while still protecting your data integrity.Neo4j graph algorithms are scalable and production-ready. Neo4j algorithms are written in Java and performance tested. NetworkX is a single node implementation of a graph written in Python. The response time is much faster in Neo4j.
